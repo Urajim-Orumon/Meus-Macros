@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Listas de Alimentos",
+        "text": "As listas de alimentos contém todos os alimentos expostos com seus valores relativos a 100g de alimento. No fim das contas, você não precisa preocupar-se com isso, pois, na hora de adicionar à sua lista diária, o que vale é a porção em gramas.",
+        "tip": "Você pode criar seus próprios alimentos clicando em \"+\" na sua tela dos Favoritos."
+    },
+    {
+        "title": "Tabela TACO",
+        "text": "Você tem à sua disposição neste app uma lista com os alimentos da Tabela TACO com seus macronutrientes resumidos entre os que você vai precisar para seu controle diário de macronutrientes.",
+        "tip": "Utilize a barra de pesquisa para encontrar os alimentos que procura e, se você já sabe que vai utilizar novamente, pode salva-lo em sua lista de favoritos apenas clicando no coração ali ao lado dele."
+    },
+    {
+        "title": "Escolhendo minhas metas",
+        "text": "Suas metas de macronutrientes e calorias a serem alcançadas diariamente podem ser selecionadas no menu em \"Escolher Minhas Metas\". Se você é novo nisso, é bom que busque orientação de um profissional sobre quais são as metas diárias mais adequadas para você.",
+        "tip": "Há muitas dicas disponibilizadas por profissionais da área na internet. Com um pouquinho de dedicação, você entende bem rápido como funciona."
+    },
+    {
+        "title": "Criar um Novo Alimento",
+        "text": "Quando você for criar um novo alimento que pesquisou na internet ou pela tabela nutricional escrita no rótulo do produto, não se preocupe em fazer contas, nós fazemos isso por você. Basta adicionar a quantidade que está lá (ex: porção de 60g) e os valores para essa quantidade que tudo será convertido para os mesmos 100g quando esse alimento for exposto em sua lista de favoritos.",
+        "tip": "Se você faz algumas receitas frequentemente, você pode criar um novo alimento para sua receita. Por exemplo: \"Crepioca com queijo\" em vez de ter que lançar sempre o queijo, a goma de tapioca e o ovo separadamente."
+    },
+    {
+        "title": "Adicionar Alimentos à Lista Diária",
+        "text": "Adicionar um alimento à sua lista diária é muito fácil. Com apenas um clique você faz isso. Se quiser mudar a quantidade em gramas do alimento que você irá adicionar, basta clicar em \"+\" ou \"-\" na parte inferior da tela ou digitar o valor.",
+        "tip": "Nas configurações você pode alterar de quanto em quanto vai aumentar ou diminuir a quantidade em gramas do alimento que irá adicionar. Por padrão, será de 10 em 10 gramas, mas você pode escolher o que se encaixa melhor para seu dia a dia."
+    },
+    {
+        "title": "Editando os Alimentos",
+        "text": "Você pode editar os alimentos que estão em sua lista de favoritos e na lista diária. Na lista de favoritos, a edição irá lhe permitir a alteração de todos os dados do alimento, afinal, a lista é sua. Na lista diária, você poderá editar a porção em gramas que você usou para adicionar o alimento.",
+        "tip": "Você pode utilizar o botão de cálculo automático de calorias localizado à direita do campo \"calorias\" após ter preenchido os outros campos."
+    },
+    {
+        "title": "Iniciando um Novo Dia",
+        "text": "Clicando no símbolo da parte superior da sua tela inicial, você reinicia a sua dieta. Nas configurações, você pode alterar se vai salvar aquele dia de dieta com data de hoje ou de ontem, caso esteja fazendo esse processo antes de dormir ou somente no dia seguinte diante da primeira refeição.",
+        "tip": "Não se preocupe em reiniciar o seu registro diário, ele estará salvo em \"Meu Histórico\". Tome cuidado ao deletar os itens do seu histórico. Após deletados, não estarão mais disponíveis."
+    }
+]
